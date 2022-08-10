@@ -23,5 +23,12 @@
         </dependency>
 
 
+        <dependency>
+            <groupId>com.github.ben-manes.caffeine</groupId>
+            <artifactId>caffeine</artifactId>
+            <!--https://mvnrepository.com/artifact/com.github.ben-manes.caffeine/caffeinez找最新版-->
+            <version>2.9.1</version>
+        </dependency>
+
     </dependencies>
 </project>
